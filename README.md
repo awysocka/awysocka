@@ -1,4 +1,2 @@
 Anna Wysocka
-
-
-##Front-end Developer
+Front-end Developer
