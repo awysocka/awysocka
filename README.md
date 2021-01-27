@@ -12,7 +12,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-%2331A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
 
 - ☕️ Coffee addict with passion to code living in Warsaw. 
-- 🌱 Currently focused on developing my JS knowledge and learning Vue.js.
+- 🌱 Currently focused on developing my JS knowledge and learning React.
 - 👨‍💻 Looking for a job as junior front-end developer. More info: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/wysocka-anna/)
 - 🤸🏻‍♀️ When I'm not coding you can find me in the park practicing Acroyoga. 
 
